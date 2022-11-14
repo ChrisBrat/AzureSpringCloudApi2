@@ -1,1 +1,1 @@
-# AzureSpringCloudWebapp2
+# AzureSpringCloudWebapp
